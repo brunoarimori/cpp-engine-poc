@@ -1,0 +1,10 @@
+{
+	"integer": 100,
+	"string": "myString",
+	"boolean": true,
+	"object": {
+		"attribute1": 1,
+		"attribute2":2
+	},
+	"list": [1, 2, 3]
+}

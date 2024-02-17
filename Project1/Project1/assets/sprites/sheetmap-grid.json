@@ -1,0 +1,16 @@
+{
+	"id": "grid",
+	"sheet-config": {
+		"size": [320, 320],
+		"prefix": "grid"
+	},
+  "sprites": [
+    {
+      "id":  "basic",
+      "rect": [
+        [ 0, 0, 320, 320 ]
+      ],
+      "origin": [ 0, 0 ]
+    }
+  ]
+}

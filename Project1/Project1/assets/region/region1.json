@@ -1,0 +1,50 @@
+{
+  "id": "region1",
+  "tiles": [
+    {
+      "tileid": 0,
+      "layer": 0,
+      "position": [ 0, 0 ]
+    },
+    {
+      "tileid": 0,
+      "layer": 0,
+      "position": [ 1, 0 ]
+    },
+    {
+      "tileid": 0,
+      "layer": 0,
+      "position": [ 2, 0 ]
+    },
+    {
+      "tileid": 0,
+      "layer": 0,
+      "position": [ 0, 1 ]
+    },
+    {
+      "tileid": 0,
+      "layer": 0,
+      "position": [ 1, 1 ]
+    },
+    {
+      "tileid": 0,
+      "layer": 0,
+      "position": [ 2, 1 ]
+    },
+    {
+      "tileid": 0,
+      "layer": 0,
+      "position": [ 0, 2 ]
+    },
+    {
+      "tileid": 0,
+      "layer": 0,
+      "position": [ 1, 2 ]
+    },
+    {
+      "tileid": 0,
+      "layer": 0,
+      "position": [ 2, 2 ]
+    }
+  ]
+}

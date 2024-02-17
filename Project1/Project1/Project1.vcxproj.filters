@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="engine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="scene-base.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="scene-game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="system-base.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="system-input.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="system-move.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="manager-scene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="manager-system.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="system-collision.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="system-log.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="testing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="system-steer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="util-generalsprite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="system-view.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="system-render.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="manager-render.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="system-grid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="util-fps.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="engine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="comp-body.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="comp-renderable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="scene-base.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="scene-game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system-base.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system-input.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system-move.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="manager-scene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="manager-system.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pool-components.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="comp-controllable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="comp-movable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system-collision.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system-log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="event-log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="testing.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="flags-input.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="flags-directions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pool-flags.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="flags-values.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system-steer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="event-createmob.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system-view.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system-render.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="manager-render.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="system-grid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="comp-tile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="util-fps.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="util-generalsprite.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="event-input.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

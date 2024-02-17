@@ -1,0 +1,5 @@
+*.lib binary
+*.pdb binary
+*.ttf binary
+*.png binary
+*.gif binary
